@@ -25,6 +25,5 @@ int main()
 		index = 3;
 
 	cout << "you qualify for the " << qualify[ index];
-	cout << "copyright Mungo Systems"
 	return 0;
 }
